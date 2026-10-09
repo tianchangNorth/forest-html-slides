@@ -1,0 +1,4 @@
+interface:
+  display_name: "墨绿交互演示文稿"
+  short_description: "复用墨绿与米白的编辑式风格，制作带讲解备注、可离线播放的交互式 HTML 演示文稿"
+  default_prompt: "使用 $forest-html-slides，为我提供的主题生成这套墨绿与米白风格的交互式 HTML 演示文稿。"
